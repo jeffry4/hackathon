@@ -1,0 +1,12 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: #1a1818;
+    background-image: url('https://thumbs.dreamstime.com/b/vector-cartoon-illustration-modern-empty-city-park-skyscrapers-buildings-background-vector-cartoon-illustration-120341418.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pups{
+    width: 100%;
+  height: auto;
+}
